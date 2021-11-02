@@ -1,1 +1,1 @@
-# ELTE_Korszam_II_2021_pub
+# Modern Computational Methods in Physics II. 2021-2022/1 @ ELTE

@@ -1,0 +1,1426 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'linux-distro.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{2265bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,4.01125828)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{linux-distro.pdf}}%
+    \put(0.18476821,3.64635762){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Burapha\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{linux-distro.pdf}}%
+    \put(0.10761589,3.98874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MNIS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{linux-distro.pdf}}%
+    \put(0.2013245,3.98145695){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Stampede\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{linux-distro.pdf}}%
+    \put(0.28675497,3.97417219){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VectorLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{linux-distro.pdf}}%
+    \put(0.45264901,3.96688742){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}WHAX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{linux-distro.pdf}}%
+    \put(0.45960265,3.95960265){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SLAMPP\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{linux-distro.pdf}}%
+    \put(0.40562914,3.93774834){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DNALinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{linux-distro.pdf}}%
+    \put(0.45529801,3.94503311){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Wolvix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{linux-distro.pdf}}%
+    \put(0.34768212,3.95231788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Slax\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{linux-distro.pdf}}%
+    \put(0.36059603,3.93046358){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Plamo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{linux-distro.pdf}}%
+    \put(0.39172185,3.92317881){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Stux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{linux-distro.pdf}}%
+    \put(0.40397351,3.92317881){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}STUX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{linux-distro.pdf}}%
+    \put(0.40562914,3.91589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DARKSTAR\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{linux-distro.pdf}}%
+    \put(0.41556291,3.90860927){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Minislack\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{linux-distro.pdf}}%
+    \put(0.45562914,3.90860927){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Zenwalk\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{linux-distro.pdf}}%
+    \put(0.41986755,3.9013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Slack 390\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{linux-distro.pdf}}%
+    \put(0.42847682,3.89403974){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kate\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{linux-distro.pdf}}%
+    \put(0.44668874,3.89403974){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}KateOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{linux-distro.pdf}}%
+    \put(0.43046358,3.88675497){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MOPSLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{linux-distro.pdf}}%
+    \put(0.61092715,3.88675497){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AgiliaLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{linux-distro.pdf}}%
+    \put(0.43774834,3.8794702){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Slamd64\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{linux-distro.pdf}}%
+    \put(0.45264901,3.87218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}pQui\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{linux-distro.pdf}}%
+    \put(0.48046358,3.86490066){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}RIP\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{linux-distro.pdf}}%
+    \put(0.49403974,3.85761589){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bluewhite64\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{linux-distro.pdf}}%
+    \put(0.50099338,3.85033113){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Wifislax\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{linux-distro.pdf}}%
+    \put(0.51456954,3.84304636){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Draco\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{linux-distro.pdf}}%
+    \put(0.56556291,3.83576159){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Wifiway\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{linux-distro.pdf}}%
+    \put(0.57119205,3.82847682){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kongoni\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{linux-distro.pdf}}%
+    \put(0.59172185,3.82119205){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Salix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{linux-distro.pdf}}%
+    \put(0.64966887,3.81390728){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Slackel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{linux-distro.pdf}}%
+    \put(0.07715232,3.64635762){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}S.u.S.E\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{linux-distro.pdf}}%
+    \put(0.65,3.79933775){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Porteus\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=33]{linux-distro.pdf}}%
+    \put(0.64834437,3.79205298){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SlaXBMC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=34]{linux-distro.pdf}}%
+    \put(0.57615894,3.78476821){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linvo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=35]{linux-distro.pdf}}%
+    \put(0.56788079,3.77748344){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PLATYPUX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=36]{linux-distro.pdf}}%
+    \put(0.52218543,3.77019868){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SMS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=37]{linux-distro.pdf}}%
+    \put(0.61523179,3.77019868){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Superb Mini Server\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=38]{linux-distro.pdf}}%
+    \put(0.67483444,3.75562914){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SL4P\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=39]{linux-distro.pdf}}%
+    \put(0.50364238,3.76291391){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ARMedslack\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=40]{linux-distro.pdf}}%
+    \put(0.6884106,3.76291391){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Slackware ARM\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=41]{linux-distro.pdf}}%
+    \put(0.49569536,3.74834437){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Absolute\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=42]{linux-distro.pdf}}%
+    \put(0.48278146,3.7410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Voltalinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=43]{linux-distro.pdf}}%
+    \put(0.4602649,3.73377483){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Slackintosh\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=44]{linux-distro.pdf}}%
+    \put(0.44735099,3.72649007){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NetSecL\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=45]{linux-distro.pdf}}%
+    \put(0.43046358,3.7192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Frugalware\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=46]{linux-distro.pdf}}%
+    \put(0.4294702,3.71192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NimbleX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=47]{linux-distro.pdf}}%
+    \put(0.42218543,3.70463576){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}HostGIS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=48]{linux-distro.pdf}}%
+    \put(0.41953642,3.69735099){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GoblinX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=49]{linux-distro.pdf}}%
+    \put(0.61754967,3.69735099){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Imagineos\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=50]{linux-distro.pdf}}%
+    \put(0.40827815,3.69006623){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AUSTRUMI\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=51]{linux-distro.pdf}}%
+    \put(0.39668874,3.68278146){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kwort\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=52]{linux-distro.pdf}}%
+    \put(0.66125828,3.66821192){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DeLicate\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=53]{linux-distro.pdf}}%
+    \put(0.36423841,3.67549669){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DeLi\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=54]{linux-distro.pdf}}%
+    \put(0.6294702,3.67549669){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ConnochaetOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=55]{linux-distro.pdf}}%
+    \put(0.35794702,3.66821192){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Topologilinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=56]{linux-distro.pdf}}%
+    \put(0.32119205,3.66092715){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Splack Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=57]{linux-distro.pdf}}%
+    \put(0.27913907,3.65364238){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tiny\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=58]{linux-distro.pdf}}%
+    \put(0.05662252,3.80662252){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Slackware\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=59]{linux-distro.pdf}}%
+    \put(0.0192053,3.98874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SLS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=60]{linux-distro.pdf}}%
+    \put(0.26556291,3.63178808){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Libranet\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=61]{linux-distro.pdf}}%
+    \put(0.2897351,3.62450331){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gibraltar\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=62]{linux-distro.pdf}}%
+    \put(0.31258278,3.61721854){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Progeny\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=63]{linux-distro.pdf}}%
+    \put(0.44437086,3.60264901){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}64Studio\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=64]{linux-distro.pdf}}%
+    \put(0.3218543,3.60993377){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DeMuDi\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=65]{linux-distro.pdf}}%
+    \put(0.45794702,3.58807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lihuen\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=66]{linux-distro.pdf}}%
+    \put(0.35099338,3.59536424){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}gnuLinEx\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=67]{linux-distro.pdf}}%
+    \put(0.37516556,3.5807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BlackRhino\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=68]{linux-distro.pdf}}%
+    \put(0.39470199,3.57350993){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ASLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=69]{linux-distro.pdf}}%
+    \put(0.40761589,3.56622517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Guadalinex\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=70]{linux-distro.pdf}}%
+    \put(0.41125828,3.5589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DeadCD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=71]{linux-distro.pdf}}%
+    \put(0.4794702,3.5589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Olive\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=72]{linux-distro.pdf}}%
+    \put(0.41655629,3.55165563){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Underground Desktop\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=73]{linux-distro.pdf}}%
+    \put(0.42483444,3.54437086){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}grml\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=74]{linux-distro.pdf}}%
+    \put(0.43311258,3.53708609){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Arco-Debian\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=75]{linux-distro.pdf}}%
+    \put(0.56423841,3.53708609){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Arc-Live\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=76]{linux-distro.pdf}}%
+    \put(0.43807947,3.52980132){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Resulinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=77]{linux-distro.pdf}}%
+    \put(0.4397351,3.52251656){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Voyage Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=78]{linux-distro.pdf}}%
+    \put(0.45,3.51523179){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LliureX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=79]{linux-distro.pdf}}%
+    \put(0.45430464,3.50794702){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Elive\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=80]{linux-distro.pdf}}%
+    \put(0.46357616,3.50066225){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OS2005\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=81]{linux-distro.pdf}}%
+    \put(0.59536424,3.50066225){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Maemo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=82]{linux-distro.pdf}}%
+    \put(0.64933775,3.50066225){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Meego Harmattan\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=83]{linux-distro.pdf}}%
+    \put(0.46788079,3.49337748){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NepaLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=84]{linux-distro.pdf}}%
+    \put(0.73278146,3.47880795){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VyOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=85]{linux-distro.pdf}}%
+    \put(0.47450331,3.48609272){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vyatta\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=86]{linux-distro.pdf}}%
+    \put(0.70860927,3.48609272){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Brocade Vyatta vRouter\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=87]{linux-distro.pdf}}%
+    \put(0.48874172,3.47152318){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PureOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=88]{linux-distro.pdf}}%
+    \put(0.50298013,3.46423841){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BOSS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=89]{linux-distro.pdf}}%
+    \put(0.54072848,3.45695364){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PelicanHPC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=90]{linux-distro.pdf}}%
+    \put(0.54470199,3.44966887){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Proxmox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=91]{linux-distro.pdf}}%
+    \put(0.55364238,3.44238411){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Inquisitor\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=92]{linux-distro.pdf}}%
+    \put(0.57748344,3.43509934){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Untangle\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=93]{linux-distro.pdf}}%
+    \put(0.58410596,3.42781457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tails\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=94]{linux-distro.pdf}}%
+    \put(0.59900662,3.4205298){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Semplice\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=95]{linux-distro.pdf}}%
+    \put(0.62350993,3.41324503){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}UberStudent\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=96]{linux-distro.pdf}}%
+    \put(0.63112583,3.40596026){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Progress\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=97]{linux-distro.pdf}}%
+    \put(0.63609272,3.3986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SalineOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=98]{linux-distro.pdf}}%
+    \put(0.64933775,3.39139073){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Red Ribbon\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=99]{linux-distro.pdf}}%
+    \put(0.66092715,3.38410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OpenMediaVault\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=100]{linux-distro.pdf}}%
+    \put(0.67913907,3.37682119){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SolusOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=101]{linux-distro.pdf}}%
+    \put(0.68145695,3.36953642){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}YunoHost\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=102]{linux-distro.pdf}}%
+    \put(0.70364238,3.36225166){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Raspbmc\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=103]{linux-distro.pdf}}%
+    \put(0.78245033,3.36225166){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OSMC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=104]{linux-distro.pdf}}%
+    \put(0.69966887,3.34768212){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Raspyfi\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=105]{linux-distro.pdf}}%
+    \put(0.75529801,3.34768212){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Moode\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=106]{linux-distro.pdf}}%
+    \put(0.68145695,3.35496689){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Raspbian\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=107]{linux-distro.pdf}}%
+    \put(0.94536424,3.35496689){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Raspberry Pi OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=108]{linux-distro.pdf}}%
+    \put(0.69900662,3.34039735){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Univention Corporate Server\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=109]{linux-distro.pdf}}%
+    \put(0.70728477,3.33311258){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kali\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=110]{linux-distro.pdf}}%
+    \put(0.72119205,3.32582781){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Rescatux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=111]{linux-distro.pdf}}%
+    \put(0.73245033,3.31125828){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ye Olde SteamOSe\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=112]{linux-distro.pdf}}%
+    \put(0.77781457,3.31125828){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Stephenson's Rocket\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=113]{linux-distro.pdf}}%
+    \put(0.72483444,3.31854305){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SteamOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=114]{linux-distro.pdf}}%
+    \put(0.73509934,3.30397351){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ToriOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=115]{linux-distro.pdf}}%
+    \put(0.7384106,3.29668874){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}RoboLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=116]{linux-distro.pdf}}%
+    \put(0.74834437,3.28940397){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Endless OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=117]{linux-distro.pdf}}%
+    \put(0.7602649,3.28211921){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SELKS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=118]{linux-distro.pdf}}%
+    \put(0.8,3.27483444){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}deepin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=119]{linux-distro.pdf}}%
+    \put(0.81258278,3.26754967){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Parrot\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=120]{linux-distro.pdf}}%
+    \put(0.25927152,2.08013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Corel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=121]{linux-distro.pdf}}%
+    \put(0.32450331,2.08013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Xandros\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=122]{linux-distro.pdf}}%
+    \put(0.82715232,3.25298013){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Netrunner\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=123]{linux-distro.pdf}}%
+    \put(0.8089404,3.24569536){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PrimTux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=124]{linux-distro.pdf}}%
+    \put(0.79304636,3.23112583){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Refracta\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=125]{linux-distro.pdf}}%
+    \put(0.76423841,3.2384106){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Devuan\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=126]{linux-distro.pdf}}%
+    \put(0.75198675,3.22384106){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Q4OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=127]{linux-distro.pdf}}%
+    \put(0.74139073,3.21655629){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MX Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=128]{linux-distro.pdf}}%
+    \put(0.73576159,3.20927152){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tanglu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=129]{linux-distro.pdf}}%
+    \put(0.73311258,3.20198675){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}armbian\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=130]{linux-distro.pdf}}%
+    \put(0.72317881,3.19470199){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Volumio\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=131]{linux-distro.pdf}}%
+    \put(0.71059603,3.18741722){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Rebellin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=132]{linux-distro.pdf}}%
+    \put(0.69966887,3.18013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SparkyLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=133]{linux-distro.pdf}}%
+    \put(0.68211921,3.17284768){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Point Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=134]{linux-distro.pdf}}%
+    \put(0.68145695,3.16556291){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LinuxBBQ\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=135]{linux-distro.pdf}}%
+    \put(0.67980132,3.15827815){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Xamin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=136]{linux-distro.pdf}}%
+    \put(0.66523179,3.15099338){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}TurnKey\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=137]{linux-distro.pdf}}%
+    \put(0.65264901,3.14370861){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Snowlinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=138]{linux-distro.pdf}}%
+    \put(0.63741722,3.13642384){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Liquid Lemur\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=139]{linux-distro.pdf}}%
+    \put(0.63443709,3.12913907){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GNUGuitarINUX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=140]{linux-distro.pdf}}%
+    \put(0.62384106,3.1218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linux Mint Debian Edition\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=141]{linux-distro.pdf}}%
+    \put(0.61523179,3.11456954){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DoudouLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=142]{linux-distro.pdf}}%
+    \put(0.59834437,3.10728477){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Matriux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=143]{linux-distro.pdf}}%
+    \put(0.58245033,3.1){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Canaima\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=144]{linux-distro.pdf}}%
+    \put(0.56556291,3.09271523){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Metamorphose\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=145]{linux-distro.pdf}}%
+    \put(0.54966887,3.08543046){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Estrella Roja\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=146]{linux-distro.pdf}}%
+    \put(0.54370861,3.0781457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GALPon MiniNo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=147]{linux-distro.pdf}}%
+    \put(0.51092715,3.07086093){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Webconverger\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=148]{linux-distro.pdf}}%
+    \put(0.66655629,3.05629139){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}siduction\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=149]{linux-distro.pdf}}%
+    \put(0.4986755,3.06357616){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sidux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=150]{linux-distro.pdf}}%
+    \put(0.62350993,3.06357616){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}aptosid\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=151]{linux-distro.pdf}}%
+    \put(0.47649007,3.05629139){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Librassoc\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=152]{linux-distro.pdf}}%
+    \put(0.47317881,3.04900662){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Epidemic\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=153]{linux-distro.pdf}}%
+    \put(0.46423841,3.04172185){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2XOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=154]{linux-distro.pdf}}%
+    \put(0.45794702,3.03443709){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tuquito\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=155]{linux-distro.pdf}}%
+    \put(0.45,3.02715232){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VENENUX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=156]{linux-distro.pdf}}%
+    \put(0.44437086,3.01986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Trisquel\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=157]{linux-distro.pdf}}%
+    \put(0.43874172,3.01258278){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BlankOn\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=158]{linux-distro.pdf}}%
+    \put(0.43410596,3.00529801){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MoLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=159]{linux-distro.pdf}}%
+    \put(0.49966887,2.99801325){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ulteo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=160]{linux-distro.pdf}}%
+    \put(0.57152318,2.99072848){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Asturix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=161]{linux-distro.pdf}}%
+    \put(0.48609272,2.9615894){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bardinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=162]{linux-distro.pdf}}%
+    \put(0.60827815,2.97615894){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Netrunner\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=163]{linux-distro.pdf}}%
+    \put(0.50231788,2.96887417){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DEFT\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=164]{linux-distro.pdf}}%
+    \put(0.44470199,2.98344371){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kubuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=165]{linux-distro.pdf}}%
+    \put(0.46556291,2.95430464){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gobuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=166]{linux-distro.pdf}}%
+    \put(0.5602649,2.94701987){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Runtu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=167]{linux-distro.pdf}}%
+    \put(0.67880795,2.9397351){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Voyager\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=168]{linux-distro.pdf}}%
+    \put(0.79536424,2.93245033){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GalliumOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=169]{linux-distro.pdf}}%
+    \put(0.55728477,2.90331126){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PC OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=170]{linux-distro.pdf}}%
+    \put(0.68443709,2.90331126){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OS4\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=171]{linux-distro.pdf}}%
+    \put(0.7692053,2.90331126){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Black Lab\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=172]{linux-distro.pdf}}%
+    \put(0.74768212,2.91788079){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Peach OSI\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=173]{linux-distro.pdf}}%
+    \put(0.67880795,2.91059603){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Xinutop\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=174]{linux-distro.pdf}}%
+    \put(0.48278146,2.92516556){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Xubuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=175]{linux-distro.pdf}}%
+    \put(0.4884106,2.89602649){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PUD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=176]{linux-distro.pdf}}%
+    \put(0.54834437,2.89602649){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}xPUD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=177]{linux-distro.pdf}}%
+    \put(0.49304636,2.88874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hiweed Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=178]{linux-distro.pdf}}%
+    \put(0.59801325,2.88874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linux Deepin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=179]{linux-distro.pdf}}%
+    \put(0.74271523,2.88874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Deepin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=180]{linux-distro.pdf}}%
+    \put(0.77715232,2.88874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}deepin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=181]{linux-distro.pdf}}%
+    \put(0.50331126,2.88145695){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Muslim Edition\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=182]{linux-distro.pdf}}%
+    \put(0.57980132,2.88145695){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sabily\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=183]{linux-distro.pdf}}%
+    \put(0.50761589,2.87417219){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MAX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=184]{linux-distro.pdf}}%
+    \put(0.51390728,2.86688742){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu Studio\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=185]{linux-distro.pdf}}%
+    \put(0.51887417,2.85960265){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Moblin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=186]{linux-distro.pdf}}%
+    \put(0.52516556,2.85231788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Geubuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=187]{linux-distro.pdf}}%
+    \put(0.54900662,2.85231788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OpenGEU\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=188]{linux-distro.pdf}}%
+    \put(0.52715232,2.84503311){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kiwi\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=189]{linux-distro.pdf}}%
+    \put(0.53245033,2.83774834){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Eeebuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=190]{linux-distro.pdf}}%
+    \put(0.61456954,2.83774834){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Aurora OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=191]{linux-distro.pdf}}%
+    \put(0.53907285,2.83046358){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Zebuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=192]{linux-distro.pdf}}%
+    \put(0.56655629,2.83046358){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ZevenOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=193]{linux-distro.pdf}}%
+    \put(0.54635762,2.82317881){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ultimate Edition\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=194]{linux-distro.pdf}}%
+    \put(0.55463576,2.81589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MoonOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=195]{linux-distro.pdf}}%
+    \put(0.5615894,2.80860927){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}eBox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=196]{linux-distro.pdf}}%
+    \put(0.62284768,2.80860927){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Zentyal\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=197]{linux-distro.pdf}}%
+    \put(0.56390728,2.8013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Newtoos\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=198]{linux-distro.pdf}}%
+    \put(0.56589404,2.79403974){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vibuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=199]{linux-distro.pdf}}%
+    \put(0.58509934,2.79403974){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VINUX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=200]{linux-distro.pdf}}%
+    \put(0.57251656,2.78675497){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Qimo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=201]{linux-distro.pdf}}%
+    \put(0.67317881,2.7794702){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OSGeo-Live\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=202]{linux-distro.pdf}}%
+    \put(0.6115894,2.75761589){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Peppermint OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=203]{linux-distro.pdf}}%
+    \put(0.7218543,2.76490066){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LXLE\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=204]{linux-distro.pdf}}%
+    \put(0.57781457,2.77218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lubuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=205]{linux-distro.pdf}}%
+    \put(0.60066225,2.75033113){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ylmf OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=206]{linux-distro.pdf}}%
+    \put(0.67483444,2.75033113){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}StartOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=207]{linux-distro.pdf}}%
+    \put(0.60562914,2.74304636){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Element\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=208]{linux-distro.pdf}}%
+    \put(0.61887417,2.73576159){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Jolicloud\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=209]{linux-distro.pdf}}%
+    \put(0.62350993,2.72847682){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SecUntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=210]{linux-distro.pdf}}%
+    \put(0.62417219,2.72119205){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BackBox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=211]{linux-distro.pdf}}%
+    \put(0.62516556,2.71390728){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pinguy OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=212]{linux-distro.pdf}}%
+    \put(0.64271523,2.70662252){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}elementary OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=213]{linux-distro.pdf}}%
+    \put(0.65496689,2.69933775){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pear OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=214]{linux-distro.pdf}}%
+    \put(0.66589404,2.69205298){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Descent OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=215]{linux-distro.pdf}}%
+    \put(0.68344371,2.68476821){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu-Pack\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=216]{linux-distro.pdf}}%
+    \put(0.69271523,2.67748344){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu GNOME\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=217]{linux-distro.pdf}}%
+    \put(0.71125828,2.67019868){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu Kylin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=218]{linux-distro.pdf}}%
+    \put(0.76986755,2.66291391){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu MATE\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=219]{linux-distro.pdf}}%
+    \put(0.8102649,2.65562914){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}KDE Neon\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=220]{linux-distro.pdf}}%
+    \put(0.84933775,2.64834437){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pop OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=221]{linux-distro.pdf}}%
+    \put(0.44139073,2.37152318){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Arabian\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=222]{linux-distro.pdf}}%
+    \put(0.81059603,2.63377483){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Budgie-Remix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=223]{linux-distro.pdf}}%
+    \put(0.84403974,2.63377483){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu Budgie\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=224]{linux-distro.pdf}}%
+    \put(0.80529801,2.62649007){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Snakeoil OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=225]{linux-distro.pdf}}%
+    \put(0.72715232,2.6192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu Touch\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=226]{linux-distro.pdf}}%
+    \put(0.69470199,2.61192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linux Lite\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=227]{linux-distro.pdf}}%
+    \put(0.68642384,2.60463576){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Santoku\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=228]{linux-distro.pdf}}%
+    \put(0.67284768,2.59735099){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}TorBOX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=229]{linux-distro.pdf}}%
+    \put(0.69271523,2.59735099){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Whonix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=230]{linux-distro.pdf}}%
+    \put(0.66423841,2.59006623){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linkat\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=231]{linux-distro.pdf}}%
+    \put(0.64569536,2.58278146){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sn0wL1nuX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=232]{linux-distro.pdf}}%
+    \put(0.67450331,2.58278146){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LuninuX OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=233]{linux-distro.pdf}}%
+    \put(0.63046358,2.57549669){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bodhi\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=234]{linux-distro.pdf}}%
+    \put(0.62417219,2.56821192){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Dream Studio\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=235]{linux-distro.pdf}}%
+    \put(0.62384106,2.56092715){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tango Studio\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=236]{linux-distro.pdf}}%
+    \put(0.62152318,2.55364238){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AriOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=237]{linux-distro.pdf}}%
+    \put(0.6115894,2.54635762){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GnackTrack\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=238]{linux-distro.pdf}}%
+    \put(0.60231788,2.53907285){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Backtrack\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=239]{linux-distro.pdf}}%
+    \put(0.58443709,2.53178808){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}wattOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=240]{linux-distro.pdf}}%
+    \put(0.57384106,2.52450331){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Monomaxos\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=241]{linux-distro.pdf}}%
+    \put(0.57119205,2.51721854){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AV\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=242]{linux-distro.pdf}}%
+    \put(0.58013245,2.51721854){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AV Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=243]{linux-distro.pdf}}%
+    \put(0.56390728,2.50993377){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}XBMC Live\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=244]{linux-distro.pdf}}%
+    \put(0.62384106,2.50993377){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}XBMCbuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=245]{linux-distro.pdf}}%
+    \put(0.56225166,2.50264901){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CAINE\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=246]{linux-distro.pdf}}%
+    \put(0.5602649,2.49536424){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Zorin OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=247]{linux-distro.pdf}}%
+    \put(0.59470199,2.4807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Leeenux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=248]{linux-distro.pdf}}%
+    \put(0.54966887,2.48807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu eee\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=249]{linux-distro.pdf}}%
+    \put(0.5781457,2.48807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Easy Peasy\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=250]{linux-distro.pdf}}%
+    \put(0.5410596,2.47350993){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu Rescue Remix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=251]{linux-distro.pdf}}%
+    \put(0.77086093,2.4589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CrunchBang plus plus\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=252]{linux-distro.pdf}}%
+    \put(0.53708609,2.46622517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CrunchBang\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=253]{linux-distro.pdf}}%
+    \put(0.7705298,2.46622517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bunsen Labs\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=254]{linux-distro.pdf}}%
+    \put(0.52913907,2.4589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fluxbuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=255]{linux-distro.pdf}}%
+    \put(0.52516556,2.45165563){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Greenie\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=256]{linux-distro.pdf}}%
+    \put(0.52417219,2.44437086){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntulite\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=257]{linux-distro.pdf}}%
+    \put(0.56258278,2.44437086){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}U-lite\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=258]{linux-distro.pdf}}%
+    \put(0.51589404,2.43708609){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mythbuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=259]{linux-distro.pdf}}%
+    \put(0.5089404,2.42980132){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Madbox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=260]{linux-distro.pdf}}%
+    \put(0.50364238,2.42251656){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Uberyl\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=261]{linux-distro.pdf}}%
+    \put(0.52086093,2.42251656){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ComFusion\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=262]{linux-distro.pdf}}%
+    \put(0.49668874,2.41523179){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}gNewSense\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=263]{linux-distro.pdf}}%
+    \put(0.66291391,2.40066225){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Commodore OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=264]{linux-distro.pdf}}%
+    \put(0.49072848,2.40794702){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linux Mint\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=265]{linux-distro.pdf}}%
+    \put(0.48774834,2.39337748){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Christian Edition\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=266]{linux-distro.pdf}}%
+    \put(0.46754967,2.38609272){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}nUbuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=267]{linux-distro.pdf}}%
+    \put(0.46192053,2.37880795){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Edubuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=268]{linux-distro.pdf}}%
+    \put(0.4294702,2.6410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ubuntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=269]{linux-distro.pdf}}%
+    \put(0.42119205,2.36423841){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hiweed Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=270]{linux-distro.pdf}}%
+    \put(0.41390728,2.35695364){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Clonezilla Live\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=271]{linux-distro.pdf}}%
+    \put(0.41125828,2.34966887){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DRBL\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=272]{linux-distro.pdf}}%
+    \put(0.40662252,2.34238411){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}K-DEMar\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=273]{linux-distro.pdf}}%
+    \put(0.58178808,2.34238411){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}kademar\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=274]{linux-distro.pdf}}%
+    \put(0.52317881,2.32781457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}antiX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=275]{linux-distro.pdf}}%
+    \put(0.3807947,2.33509934){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MEPIS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=276]{linux-distro.pdf}}%
+    \put(0.42450331,2.33509934){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SimplyMEPIS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=277]{linux-distro.pdf}}%
+    \put(0.36688742,2.3205298){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Rxart\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=278]{linux-distro.pdf}}%
+    \put(0.4794702,2.30596026){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Freespire\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=279]{linux-distro.pdf}}%
+    \put(0.32284768,2.31324503){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lindows\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=280]{linux-distro.pdf}}%
+    \put(0.40231788,2.31324503){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linspire\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=281]{linux-distro.pdf}}%
+    \put(0.32019868,2.2986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Skolelinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=282]{linux-distro.pdf}}%
+    \put(0.81622517,2.2986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DebianEdu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=283]{linux-distro.pdf}}%
+    \put(0.37549669,2.29139073){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Quantian\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=284]{linux-distro.pdf}}%
+    \put(0.49668874,2.27682119){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Damn Vulnerable Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=285]{linux-distro.pdf}}%
+    \put(0.38344371,2.28410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Damn Small Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=286]{linux-distro.pdf}}%
+    \put(0.38940397,2.26953642){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}KnoppMyth\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=287]{linux-distro.pdf}}%
+    \put(0.39768212,2.26225166){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Danix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=288]{linux-distro.pdf}}%
+    \put(0.43807947,2.24768212){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Parsix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=289]{linux-distro.pdf}}%
+    \put(0.40198675,2.25496689){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kanotix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=290]{linux-distro.pdf}}%
+    \put(0.41622517,2.24039735){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MAX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=291]{linux-distro.pdf}}%
+    \put(0.41953642,2.23311258){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kaella\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=292]{linux-distro.pdf}}%
+    \put(0.44635762,2.22582781){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ParallelKnoppix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=293]{linux-distro.pdf}}%
+    \put(0.4589404,2.21854305){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Musix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=294]{linux-distro.pdf}}%
+    \put(0.48013245,2.09470199){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NeoDizinha\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=295]{linux-distro.pdf}}%
+    \put(0.50827815,2.09470199){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Patinho Faminto\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=296]{linux-distro.pdf}}%
+    \put(0.44801325,2.20397351){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Symphony OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=297]{linux-distro.pdf}}%
+    \put(0.42218543,2.19668874){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Whoppix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=298]{linux-distro.pdf}}%
+    \put(0.41655629,2.18940397){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}B2D\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=299]{linux-distro.pdf}}%
+    \put(0.41556291,2.18211921){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Auditor Security Collection\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=300]{linux-distro.pdf}}%
+    \put(0.48145695,2.18211921){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Backtrack\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=301]{linux-distro.pdf}}%
+    \put(0.4,2.17483444){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Feather\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=302]{linux-distro.pdf}}%
+    \put(0.39735099,2.16754967){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Medialinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=303]{linux-distro.pdf}}%
+    \put(0.42384106,2.16754967){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mediainlinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=304]{linux-distro.pdf}}%
+    \put(0.49602649,2.16754967){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ArtistX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=305]{linux-distro.pdf}}%
+    \put(0.38907285,2.1602649){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}INSERT\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=306]{linux-distro.pdf}}%
+    \put(0.41390728,2.15298013){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Aquamorph\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=307]{linux-distro.pdf}}%
+    \put(0.48576159,2.14569536){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Shift Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=308]{linux-distro.pdf}}%
+    \put(0.40794702,2.13112583){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hiwix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=309]{linux-distro.pdf}}%
+    \put(0.42218543,2.13112583){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hiweed Desktop\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=310]{linux-distro.pdf}}%
+    \put(0.47284768,2.13112583){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Dreamlinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=311]{linux-distro.pdf}}%
+    \put(0.37682119,2.1384106){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Morphix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=312]{linux-distro.pdf}}%
+    \put(0.40562914,2.12384106){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kalango\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=313]{linux-distro.pdf}}%
+    \put(0.40298013,2.10198675){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Dizinha\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=314]{linux-distro.pdf}}%
+    \put(0.44205298,2.10927152){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Poseidon\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=315]{linux-distro.pdf}}%
+    \put(0.37384106,2.11655629){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kurumin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=316]{linux-distro.pdf}}%
+    \put(0.29503311,2.21125828){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Knoppix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=317]{linux-distro.pdf}}%
+    \put(0.27317881,2.08741722){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Omoikane Arma\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=318]{linux-distro.pdf}}%
+    \put(0.05927152,3.2602649){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Debian\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=319]{linux-distro.pdf}}%
+    \put(0.33410596,2.05827815){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Redmond\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=320]{linux-distro.pdf}}%
+    \put(0.35794702,2.05827815){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lycoris Desktop/LX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=321]{linux-distro.pdf}}%
+    \put(0.14072848,2.06556291){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Caldera OpenLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=322]{linux-distro.pdf}}%
+    \put(0.35728477,2.06556291){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SCO OpenLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=323]{linux-distro.pdf}}%
+    \put(0.19602649,2.05099338){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Conectiva\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=324]{linux-distro.pdf}}%
+    \put(0.20430464,2.04370861){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PLD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=325]{linux-distro.pdf}}%
+    \put(0.21788079,2.03642384){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Turbolinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=326]{linux-distro.pdf}}%
+    \put(0.22615894,2.02913907){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fermi\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=327]{linux-distro.pdf}}%
+    \put(0.23741722,2.0218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}e-smith\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=328]{linux-distro.pdf}}%
+    \put(0.32218543,2.0218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SME Server\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=329]{linux-distro.pdf}}%
+    \put(0.24304636,2.01456954){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Yellow Dog\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=330]{linux-distro.pdf}}%
+    \put(0.25662252,2.00728477){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Red Flag\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=331]{linux-distro.pdf}}%
+    \put(0.26556291,2){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kondara\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=332]{linux-distro.pdf}}%
+    \put(0.27317881,1.99271523){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ELX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=333]{linux-distro.pdf}}%
+    \put(0.27748344,1.98543046){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Finnix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=334]{linux-distro.pdf}}%
+    \put(0.41655629,1.97086093){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Asianux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=335]{linux-distro.pdf}}%
+    \put(0.2897351,1.9781457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Miracle\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=336]{linux-distro.pdf}}%
+    \put(0.29735099,1.96357616){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Best\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=337]{linux-distro.pdf}}%
+    \put(0.34635762,1.96357616){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SOT\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=338]{linux-distro.pdf}}%
+    \put(0.41192053,1.96357616){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LBA\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=339]{linux-distro.pdf}}%
+    \put(0.29801325,1.95629139){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ClarkConnect\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=340]{linux-distro.pdf}}%
+    \put(0.59304636,1.95629139){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ClearOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=341]{linux-distro.pdf}}%
+    \put(0.31721854,1.94900662){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Independence\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=342]{linux-distro.pdf}}%
+    \put(0.33145695,1.94172185){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Aurora\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=343]{linux-distro.pdf}}%
+    \put(0.35198675,1.93443709){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bayanihan\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=344]{linux-distro.pdf}}%
+    \put(0.36523179,1.92715232){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Aurox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=345]{linux-distro.pdf}}%
+    \put(0.38443709,1.91986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AnNyung\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=346]{linux-distro.pdf}}%
+    \put(0.39735099,1.91258278){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SuliX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=347]{linux-distro.pdf}}%
+    \put(0.4,1.90529801){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PUIAS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=348]{linux-distro.pdf}}%
+    \put(0.70529801,1.90529801){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Springdale Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=349]{linux-distro.pdf}}%
+    \put(0.4013245,1.89801325){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}White Box\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=350]{linux-distro.pdf}}%
+    \put(0.41456954,1.89072848){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Scientific\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=351]{linux-distro.pdf}}%
+    \put(0.43311258,1.88344371){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tao\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=352]{linux-distro.pdf}}%
+    \put(0.49602649,1.87615894){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Oracle Enterprise\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=353]{linux-distro.pdf}}%
+    \put(0.53708609,1.87615894){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Oracle Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=354]{linux-distro.pdf}}%
+    \put(0.10496689,1.40993377){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}WGS Linux Pro\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=355]{linux-distro.pdf}}%
+    \put(0.6513245,1.8615894){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ServOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=356]{linux-distro.pdf}}%
+    \put(0.48675497,1.85430464){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Endian\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=357]{linux-distro.pdf}}%
+    \put(0.42417219,1.84701987){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}StartCom\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=358]{linux-distro.pdf}}%
+    \put(0.41258278,1.8397351){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CERN\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=359]{linux-distro.pdf}}%
+    \put(0.50165563,1.83245033){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Elastix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=360]{linux-distro.pdf}}%
+    \put(0.73013245,1.82516556){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Rockstor\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=361]{linux-distro.pdf}}%
+    \put(0.78708609,1.81788079){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Baruwa\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=362]{linux-distro.pdf}}%
+    \put(0.43112583,1.78874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Asterisk at Home\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=363]{linux-distro.pdf}}%
+    \put(0.48211921,1.78874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}trixbox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=364]{linux-distro.pdf}}%
+    \put(0.76953642,1.80331126){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NethServer\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=365]{linux-distro.pdf}}%
+    \put(0.56821192,1.79602649){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BlueOnyx\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=366]{linux-distro.pdf}}%
+    \put(0.4,1.81059603){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CentOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=367]{linux-distro.pdf}}%
+    \put(0.42251656,1.78145695){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Momonga\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=368]{linux-distro.pdf}}%
+    \put(0.48940397,1.77417219){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ekaaty\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=369]{linux-distro.pdf}}%
+    \put(0.52582781,1.76688742){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vixta\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=370]{linux-distro.pdf}}%
+    \put(0.54834437,1.76688742){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Simplis\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=371]{linux-distro.pdf}}%
+    \put(0.56821192,1.76688742){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Xange\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=372]{linux-distro.pdf}}%
+    \put(0.76688742,1.76688742){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}eZeY\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=373]{linux-distro.pdf}}%
+    \put(0.65662252,1.74503311){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tizen\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=374]{linux-distro.pdf}}%
+    \put(0.7307947,1.75231788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sailfish OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=375]{linux-distro.pdf}}%
+    \put(0.65960265,1.75960265){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mer\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=376]{linux-distro.pdf}}%
+    \put(0.61456954,1.75231788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MeeGo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=377]{linux-distro.pdf}}%
+    \put(0.55629139,1.75960265){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Moblin 2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=378]{linux-distro.pdf}}%
+    \put(0.59735099,1.73774834){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hanthana\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=379]{linux-distro.pdf}}%
+    \put(0.61622517,1.73046358){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Synergy\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=380]{linux-distro.pdf}}%
+    \put(0.63377483,1.72317881){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kororaa\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=381]{linux-distro.pdf}}%
+    \put(0.71125828,1.72317881){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Korora\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=382]{linux-distro.pdf}}%
+    \put(0.66589404,1.71589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Viperr\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=383]{linux-distro.pdf}}%
+    \put(0.72284768,1.70860927){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Chapeau\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=384]{linux-distro.pdf}}%
+    \put(0.4,1.63576159){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NST\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=385]{linux-distro.pdf}}%
+    \put(0.71423841,1.69403974){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Maui OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=386]{linux-distro.pdf}}%
+    \put(0.81523179,1.69403974){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hawaii OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=387]{linux-distro.pdf}}%
+    \put(0.63410596,1.68675497){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Parsidora\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=388]{linux-distro.pdf}}%
+    \put(0.6294702,1.6794702){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fuduntu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=389]{linux-distro.pdf}}%
+    \put(0.6102649,1.67218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Qubes OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=390]{linux-distro.pdf}}%
+    \put(0.56523179,1.66490066){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VortexBox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=391]{linux-distro.pdf}}%
+    \put(0.55496689,1.65761589){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ojuba\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=392]{linux-distro.pdf}}%
+    \put(0.50231788,1.65033113){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Amahi\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=393]{linux-distro.pdf}}%
+    \put(0.44966887,1.64304636){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MythDora\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=394]{linux-distro.pdf}}%
+    \put(0.39768212,1.7013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fedora Core\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=395]{linux-distro.pdf}}%
+    \put(0.51523179,1.7013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fedora\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=396]{linux-distro.pdf}}%
+    \put(0.3910596,1.62847682){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ATmission\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=397]{linux-distro.pdf}}%
+    \put(0.37913907,1.62119205){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Berry\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=398]{linux-distro.pdf}}%
+    \put(0.36324503,1.61390728){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BLAG\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=399]{linux-distro.pdf}}%
+    \put(0.33377483,1.60662252){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}EnGarde\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=400]{linux-distro.pdf}}%
+    \put(0.32019868,1.59933775){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}K12\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=401]{linux-distro.pdf}}%
+    \put(0.31059603,1.59205298){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ASPLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=402]{linux-distro.pdf}}%
+    \put(0.29801325,1.58476821){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Rocks\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=403]{linux-distro.pdf}}%
+    \put(0.29536424,1.57748344){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pingo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=404]{linux-distro.pdf}}%
+    \put(0.28145695,1.57019868){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BU Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=405]{linux-distro.pdf}}%
+    \put(0.27582781,1.56291391){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Trustix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=406]{linux-distro.pdf}}%
+    \put(0.27284768,1.55562914){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linpus\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=407]{linux-distro.pdf}}%
+    \put(0.26225166,1.54834437){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Immunix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=408]{linux-distro.pdf}}%
+    \put(0.24503311,1.5410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vine\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=409]{linux-distro.pdf}}%
+    \put(0.24271523,1.53377483){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Eridani\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=410]{linux-distro.pdf}}%
+    \put(0.23741722,1.52649007){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}KRUD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=411]{linux-distro.pdf}}%
+    \put(0.31092715,1.5192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ALT\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=412]{linux-distro.pdf}}%
+    \put(0.39470199,1.51192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SAM\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=413]{linux-distro.pdf}}%
+    \put(0.61721854,1.51192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SAMity\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=414]{linux-distro.pdf}}%
+    \put(0.40165563,1.50463576){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OpenSLS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=415]{linux-distro.pdf}}%
+    \put(0.42516556,1.50463576){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Annvix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=416]{linux-distro.pdf}}%
+    \put(0.62483444,1.50463576){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mageia\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=417]{linux-distro.pdf}}%
+    \put(0.22615894,1.43907285){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Demolinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=418]{linux-distro.pdf}}%
+    \put(0.71589404,1.48278146){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OpenMandriva Lx\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=419]{linux-distro.pdf}}%
+    \put(0.64205298,1.49006623){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ROSA\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=420]{linux-distro.pdf}}%
+    \put(0.59933775,1.47549669){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Unity Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=421]{linux-distro.pdf}}%
+    \put(0.4,1.46821192){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}blackPanther\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=422]{linux-distro.pdf}}%
+    \put(0.50198675,1.46092715){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Granular\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=423]{linux-distro.pdf}}%
+    \put(0.49668874,1.43907285){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}TinyMe\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=424]{linux-distro.pdf}}%
+    \put(0.65397351,1.44635762){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Phinx\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=425]{linux-distro.pdf}}%
+    \put(0.39470199,1.45364238){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PCLinuxOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=426]{linux-distro.pdf}}%
+    \put(0.22284768,1.49735099){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mandrake\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=427]{linux-distro.pdf}}%
+    \put(0.44403974,1.49735099){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mandriva\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=428]{linux-distro.pdf}}%
+    \put(0.20430464,1.43178808){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Eurielec\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=429]{linux-distro.pdf}}%
+    \put(0.20298013,1.42450331){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Buhawi\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=430]{linux-distro.pdf}}%
+    \put(0.1794702,1.41721854){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LinuxPPC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=431]{linux-distro.pdf}}%
+    \put(0.09933775,1.86887417){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Red Hat\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=432]{linux-distro.pdf}}%
+    \put(0.34337748,1.86887417){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Red Hat Enterprise\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=433]{linux-distro.pdf}}%
+    \put(0.36589404,1.32980132){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SCO Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=434]{linux-distro.pdf}}%
+    \put(0.29536424,1.39536424){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Caixa Mágica\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=435]{linux-distro.pdf}}%
+    \put(0.38642384,1.38807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Stresslinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=436]{linux-distro.pdf}}%
+    \put(0.49205298,1.3807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linkat\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=437]{linux-distro.pdf}}%
+    \put(0.2705298,1.32251656){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Astaro\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=438]{linux-distro.pdf}}%
+    \put(0.68509934,1.32251656){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sophos UTM\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=439]{linux-distro.pdf}}%
+    \put(0.61092715,1.36622517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Stresslinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=440]{linux-distro.pdf}}%
+    \put(0.81125828,1.36622517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}EasyNAS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=441]{linux-distro.pdf}}%
+    \put(0.59437086,1.34437086){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linkat\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=442]{linux-distro.pdf}}%
+    \put(0.80562914,1.35165563){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GeckoLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=443]{linux-distro.pdf}}%
+    \put(0.49966887,1.3589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OpenSUSE\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=444]{linux-distro.pdf}}%
+    \put(0.39801325,1.34437086){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sun JDS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=445]{linux-distro.pdf}}%
+    \put(0.36589404,1.33708609){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}United Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=446]{linux-distro.pdf}}%
+    \put(0.14900662,1.37350993){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}S.u.S.E\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=447]{linux-distro.pdf}}%
+    \put(0.23377483,1.37350993){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SuSE\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=448]{linux-distro.pdf}}%
+    \put(0.39602649,1.37350993){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SUSE\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=449]{linux-distro.pdf}}%
+    \put(0.10794702,1.39536424){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Jurix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=450]{linux-distro.pdf}}%
+    \put(0.37516556,1.30794702){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gentoox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=451]{linux-distro.pdf}}%
+    \put(0.43543046,1.30066225){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Knopperdisk\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=452]{linux-distro.pdf}}%
+    \put(0.46092715,1.29337748){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}RR4\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=453]{linux-distro.pdf}}%
+    \put(0.48907285,1.29337748){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sabayon\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=454]{linux-distro.pdf}}%
+    \put(0.46821192,1.28609272){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pardus\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=455]{linux-distro.pdf}}%
+    \put(0.51622517,1.27880795){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Calculate\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=456]{linux-distro.pdf}}%
+    \put(0.54072848,1.27152318){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SystemRescueCD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=457]{linux-distro.pdf}}%
+    \put(0.57218543,1.26423841){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Nova\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=458]{linux-distro.pdf}}%
+    \put(0.61291391,1.25695364){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Liberté\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=459]{linux-distro.pdf}}%
+    \put(0.72582781,1.24966887){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CoreOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=460]{linux-distro.pdf}}%
+    \put(0.8307947,1.24966887){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Container Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=461]{linux-distro.pdf}}%
+    \put(0.80298013,1.24238411){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}wtfplay-live\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=462]{linux-distro.pdf}}%
+    \put(0.40827815,1.12582781){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ututo-e\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=463]{linux-distro.pdf}}%
+    \put(0.77251656,1.22781457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Porteus Kiosk\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=464]{linux-distro.pdf}}%
+    \put(0.71821192,1.2205298){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Daphile\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=465]{linux-distro.pdf}}%
+    \put(0.77715232,1.21324503){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CloudReady\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=466]{linux-distro.pdf}}%
+    \put(0.82748344,1.20596026){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Flint OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=467]{linux-distro.pdf}}%
+    \put(0.64933775,1.18410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Chrome OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=468]{linux-distro.pdf}}%
+    \put(0.80298013,1.19139073){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NayuOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=469]{linux-distro.pdf}}%
+    \put(0.59768212,1.1986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Chromium OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=470]{linux-distro.pdf}}%
+    \put(0.55728477,1.17682119){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Funtoo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=471]{linux-distro.pdf}}%
+    \put(0.53211921,1.16953642){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Toorox\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=472]{linux-distro.pdf}}%
+    \put(0.49668874,1.16225166){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Papug\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=473]{linux-distro.pdf}}%
+    \put(0.46721854,1.15496689){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Kororaa\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=474]{linux-distro.pdf}}%
+    \put(0.43874172,1.14768212){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pentoo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=475]{linux-distro.pdf}}%
+    \put(0.42781457,1.14039735){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VidaLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=476]{linux-distro.pdf}}%
+    \put(0.45794702,1.14039735){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VLOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=477]{linux-distro.pdf}}%
+    \put(0.29536424,1.13311258){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ututo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=478]{linux-distro.pdf}}%
+    \put(0.44900662,1.13311258){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ututo XS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=479]{linux-distro.pdf}}%
+    \put(0.26754967,1.23509934){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Enoch\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=480]{linux-distro.pdf}}%
+    \put(0.34403974,1.23509934){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gentoo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=481]{linux-distro.pdf}}%
+    \put(0.56721854,1.11125828){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Chakra\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=482]{linux-distro.pdf}}%
+    \put(0.58509934,1.10397351){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}KahelOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=483]{linux-distro.pdf}}%
+    \put(0.5884106,1.09668874){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Arch Linux ARM\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=484]{linux-distro.pdf}}%
+    \put(0.62913907,1.08940397){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Parabola\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=485]{linux-distro.pdf}}%
+    \put(0.66291391,1.08211921){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bluestar Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=486]{linux-distro.pdf}}%
+    \put(0.67980132,1.07483444){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PoliArch\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=487]{linux-distro.pdf}}%
+    \put(0.69536424,1.06754967){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BBQLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=488]{linux-distro.pdf}}%
+    \put(0.70298013,1.0602649){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AudioPhile Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=489]{linux-distro.pdf}}%
+    \put(0.83874172,1.05298013){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ARCHLabs\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=490]{linux-distro.pdf}}%
+    \put(0.85231788,1.04569536){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Artix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=491]{linux-distro.pdf}}%
+    \put(0.86125828,1.0384106){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Arch Linux 32\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=492]{linux-distro.pdf}}%
+    \put(0.38642384,0.94370861){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AL-AMLUG\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=493]{linux-distro.pdf}}%
+    \put(0.44271523,0.94370861){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Archie\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=494]{linux-distro.pdf}}%
+    \put(0.90231788,1.02384106){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SystemRescueCD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=495]{linux-distro.pdf}}%
+    \put(0.95827815,1.02384106){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SystemRescue\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=496]{linux-distro.pdf}}%
+    \put(0.85629139,1.01655629){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ArchMerge\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=497]{linux-distro.pdf}}%
+    \put(0.88278146,1.01655629){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ArcoLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=498]{linux-distro.pdf}}%
+    \put(0.84271523,1.00927152){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hyperbola\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=499]{linux-distro.pdf}}%
+    \put(0.78377483,1.00198675){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Obarun\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=500]{linux-distro.pdf}}%
+    \put(0.69801325,0.99470199){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BlackArch\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=501]{linux-distro.pdf}}%
+    \put(0.68609272,0.98741722){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Cinnarch\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=502]{linux-distro.pdf}}%
+    \put(0.71225166,0.98741722){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Antergos\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=503]{linux-distro.pdf}}%
+    \put(0.6705298,0.98013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bridge\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=504]{linux-distro.pdf}}%
+    \put(0.75596026,0.96556291){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Netrunner Rolling\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=505]{linux-distro.pdf}}%
+    \put(0.65198675,0.97284768){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Manjaro\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=506]{linux-distro.pdf}}%
+    \put(0.60364238,0.95827815){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ArchBang\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=507]{linux-distro.pdf}}%
+    \put(0.58543046,0.95099338){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CTKarchLive\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=508]{linux-distro.pdf}}%
+    \put(0.64271523,0.95099338){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CTKArch\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=509]{linux-distro.pdf}}%
+    \put(0.57086093,0.94370861){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LinHES\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=510]{linux-distro.pdf}}%
+    \put(0.34271523,1.03112583){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Arch Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=511]{linux-distro.pdf}}%
+    \put(0.00827815,0.92913907){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MCC Interim\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=512]{linux-distro.pdf}}%
+    \put(0.01655629,0.9218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}TAMU\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=513]{linux-distro.pdf}}%
+    \put(0.03609272,0.91456954){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Yggdrasil\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=514]{linux-distro.pdf}}%
+    \put(0.03874172,0.90728477){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DLD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=515]{linux-distro.pdf}}%
+    \put(0.06887417,0.9){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LST\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=516]{linux-distro.pdf}}%
+    \put(0.0718543,0.89271523){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bogus\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=517]{linux-distro.pdf}}%
+    \put(0.10496689,0.88543046){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Xdenu\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=518]{linux-distro.pdf}}%
+    \put(0.10496689,0.8781457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linux-FT\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=519]{linux-distro.pdf}}%
+    \put(0.10761589,0.87086093){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mini\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=520]{linux-distro.pdf}}%
+    \put(0.1102649,0.86357616){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Trans-Ameritech\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=521]{linux-distro.pdf}}%
+    \put(0.11854305,0.85629139){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Unifix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=522]{linux-distro.pdf}}%
+    \put(0.12980132,0.84900662){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linux Universe\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=523]{linux-distro.pdf}}%
+    \put(0.13807947,0.84172185){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Craftworks\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=524]{linux-distro.pdf}}%
+    \put(0.14635762,0.83443709){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DILINUX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=525]{linux-distro.pdf}}%
+    \put(0.19536424,0.83443709){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}DOSLINUX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=526]{linux-distro.pdf}}%
+    \put(0.15033113,0.82715232){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}mkLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=527]{linux-distro.pdf}}%
+    \put(0.16291391,0.81986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Monkey\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=528]{linux-distro.pdf}}%
+    \put(0.29768212,0.80529801){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LEAF\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=529]{linux-distro.pdf}}%
+    \put(0.17119205,0.81258278){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linux Router Project\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=530]{linux-distro.pdf}}%
+    \put(0.19304636,0.79801325){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Weaver\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=531]{linux-distro.pdf}}%
+    \put(0.40231788,0.79801325){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Nitix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=532]{linux-distro.pdf}}%
+    \put(0.20430464,0.79072848){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}uClinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=533]{linux-distro.pdf}}%
+    \put(0.42781457,0.77615894){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}T2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=534]{linux-distro.pdf}}%
+    \put(0.22350993,0.78344371){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ROCK\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=535]{linux-distro.pdf}}%
+    \put(0.24966887,0.7615894){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}FREESCO\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=536]{linux-distro.pdf}}%
+    \put(0.23178808,0.76887417){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Project Ballantin\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=537]{linux-distro.pdf}}%
+    \put(0.23211921,0.75430464){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}tomsrtbt\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=538]{linux-distro.pdf}}%
+    \put(0.23443709,0.74701987){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Coyote\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=539]{linux-distro.pdf}}%
+    \put(0.24072848,0.7397351){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}eIT easyLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=540]{linux-distro.pdf}}%
+    \put(0.24271523,0.73245033){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ELinOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=541]{linux-distro.pdf}}%
+    \put(0.26754967,0.72516556){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Peanut\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=542]{linux-distro.pdf}}%
+    \put(0.44072848,0.72516556){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}aLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=543]{linux-distro.pdf}}%
+    \put(0.26754967,0.71788079){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BluePoint\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=544]{linux-distro.pdf}}%
+    \put(0.53211921,0.71059603){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NuTyX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=545]{linux-distro.pdf}}%
+    \put(0.79006623,0.70331126){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AryaLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=546]{linux-distro.pdf}}%
+    \put(0.37317881,0.68874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ZENIX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=547]{linux-distro.pdf}}%
+    \put(0.68741722,0.68874172){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}KaarPux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=548]{linux-distro.pdf}}%
+    \put(0.26754967,0.69602649){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Linux From Scratch\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=549]{linux-distro.pdf}}%
+    \put(0.2705298,0.68145695){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}KaeilOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=550]{linux-distro.pdf}}%
+    \put(0.45529801,0.65960265){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}IPFire\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=551]{linux-distro.pdf}}%
+    \put(0.33708609,0.66688742){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}IPCop\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=552]{linux-distro.pdf}}%
+    \put(0.29238411,0.67417219){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SmoothWall GPL\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=553]{linux-distro.pdf}}%
+    \put(0.39668874,0.67417219){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SmoothWall Express\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=554]{linux-distro.pdf}}%
+    \put(0.30364238,0.65231788){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CRUX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=555]{linux-distro.pdf}}%
+    \put(0.30794702,0.64503311){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Beehive\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=556]{linux-distro.pdf}}%
+    \put(0.30993377,0.63774834){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Midori\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=557]{linux-distro.pdf}}%
+    \put(0.31192053,0.63046358){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Leka Rescue Floppy\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=558]{linux-distro.pdf}}%
+    \put(0.31556291,0.62317881){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Openwall\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=559]{linux-distro.pdf}}%
+    \put(0.31721854,0.61589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}dyne:bolic\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=560]{linux-distro.pdf}}%
+    \put(0.81390728,0.6013245){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lede Project\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=561]{linux-distro.pdf}}%
+    \put(0.31721854,0.60860927){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OpenWRT\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=562]{linux-distro.pdf}}%
+    \put(0.32284768,0.59403974){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ark\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=563]{linux-distro.pdf}}%
+    \put(0.50927152,0.57218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LPS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=564]{linux-distro.pdf}}%
+    \put(0.84072848,0.57218543){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}TENS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=565]{linux-distro.pdf}}%
+    \put(0.39172185,0.5794702){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Thinstation\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=566]{linux-distro.pdf}}%
+    \put(0.32516556,0.58675497){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NetStation\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=567]{linux-distro.pdf}}%
+    \put(0.34503311,0.56490066){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Source Mage\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=568]{linux-distro.pdf}}%
+    \put(0.34205298,0.55033113){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lunar Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=569]{linux-distro.pdf}}%
+    \put(0.32847682,0.55761589){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sorcerer\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=570]{linux-distro.pdf}}%
+    \put(0.33940397,0.54304636){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tinfoil Hat\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=571]{linux-distro.pdf}}%
+    \put(0.3615894,0.53576159){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LinuxConsole\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=572]{linux-distro.pdf}}%
+    \put(0.36986755,0.52847682){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GoboLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=573]{linux-distro.pdf}}%
+    \put(0.3705298,0.52119205){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Yoper\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=574]{linux-distro.pdf}}%
+    \put(0.3794702,0.51390728){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}UHU\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=575]{linux-distro.pdf}}%
+    \put(0.38211921,0.50662252){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GeeXboX\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=576]{linux-distro.pdf}}%
+    \put(0.55,0.49933775){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Macpup\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=577]{linux-distro.pdf}}%
+    \put(0.71788079,0.49205298){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Simplicity\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=578]{linux-distro.pdf}}%
+    \put(0.50761589,0.47019868){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}TEENpup\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=579]{linux-distro.pdf}}%
+    \put(0.62284768,0.47019868){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Legacy OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=580]{linux-distro.pdf}}%
+    \put(0.63112583,0.47748344){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sage Live CD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=581]{linux-distro.pdf}}%
+    \put(0.38344371,0.48476821){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Puppy\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=582]{linux-distro.pdf}}%
+    \put(0.61291391,0.46291391){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Quirky\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=583]{linux-distro.pdf}}%
+    \put(0.39635762,0.45562914){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Devil\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=584]{linux-distro.pdf}}%
+    \put(0.40662252,0.44834437){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}NixOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=585]{linux-distro.pdf}}%
+    \put(0.69701987,0.4410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}GuixSD\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=586]{linux-distro.pdf}}%
+    \put(0.90993377,0.4410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Guix System\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=587]{linux-distro.pdf}}%
+    \put(0.40993377,0.43377483){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}QiLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=588]{linux-distro.pdf}}%
+    \put(0.41092715,0.42649007){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Natures Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=589]{linux-distro.pdf}}%
+    \put(0.41390728,0.4192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Openfiler\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=590]{linux-distro.pdf}}%
+    \put(0.41953642,0.41192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Octoz\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=591]{linux-distro.pdf}}%
+    \put(0.45927152,0.41192053){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Hedinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=592]{linux-distro.pdf}}%
+    \put(0.44139073,0.39735099){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Foresight\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=593]{linux-distro.pdf}}%
+    \put(0.4205298,0.40463576){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Specifix\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=594]{linux-distro.pdf}}%
+    \put(0.44900662,0.40463576){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}rPath\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=595]{linux-distro.pdf}}%
+    \put(0.43377483,0.39006623){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Paldo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=596]{linux-distro.pdf}}%
+    \put(0.46125828,0.38278146){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}BrazilFW\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=597]{linux-distro.pdf}}%
+    \put(0.4705298,0.37549669){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Jarro Negro\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=598]{linux-distro.pdf}}%
+    \put(0.47649007,0.36821192){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ophcrack\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=599]{linux-distro.pdf}}%
+    \put(0.48013245,0.36092715){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Alpine Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=600]{linux-distro.pdf}}%
+    \put(0.48311258,0.35364238){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Everest\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=601]{linux-distro.pdf}}%
+    \put(0.57880795,0.35364238){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Qomo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=602]{linux-distro.pdf}}%
+    \put(0.48476821,0.34635762){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Zeroshell\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=603]{linux-distro.pdf}}%
+    \put(0.50231788,0.33907285){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Parted Magic\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=604]{linux-distro.pdf}}%
+    \put(0.61523179,0.32450331){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tiny SliTaz\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=605]{linux-distro.pdf}}%
+    \put(0.51059603,0.33178808){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SliTaz\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=606]{linux-distro.pdf}}%
+    \put(0.51589404,0.31721854){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}openmamba\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=607]{linux-distro.pdf}}%
+    \put(0.52715232,0.30993377){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Syllable Server\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=608]{linux-distro.pdf}}%
+    \put(0.53245033,0.30264901){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ångström\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=609]{linux-distro.pdf}}%
+    \put(0.53443709,0.29536424){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}PLoP\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=610]{linux-distro.pdf}}%
+    \put(0.53543046,0.28807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}VoidLinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=611]{linux-distro.pdf}}%
+    \put(0.54801325,0.2807947){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Exherbo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=612]{linux-distro.pdf}}%
+    \put(0.71688742,0.27350993){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}dCore\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=613]{linux-distro.pdf}}%
+    \put(0.71589404,0.2589404){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}piCorePlayer\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=614]{linux-distro.pdf}}%
+    \put(0.56887417,0.26622517){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tiny Core\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=615]{linux-distro.pdf}}%
+    \put(0.57483444,0.25165563){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Dragora\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=616]{linux-distro.pdf}}%
+    \put(0.75596026,0.23708609){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LuneOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=617]{linux-distro.pdf}}%
+    \put(0.58245033,0.24437086){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}webOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=618]{linux-distro.pdf}}%
+    \put(0.80562914,0.22980132){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LibreELEC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=619]{linux-distro.pdf}}%
+    \put(0.7781457,0.21523179){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lakka\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=620]{linux-distro.pdf}}%
+    \put(0.59072848,0.22251656){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OpenELEC\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=621]{linux-distro.pdf}}%
+    \put(0.60165563,0.20794702){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CloudLinux OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=622]{linux-distro.pdf}}%
+    \put(0.60695364,0.20066225){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=623]{linux-distro.pdf}}%
+    \put(0.62715232,0.19337748){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}4M\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=624]{linux-distro.pdf}}%
+    \put(0.68609272,0.18609272){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}noop\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=625]{linux-distro.pdf}}%
+    \put(0.68708609,0.17880795){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Bedrock\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=626]{linux-distro.pdf}}%
+    \put(0.71456954,0.17152318){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}AOSC OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=627]{linux-distro.pdf}}%
+    \put(0.74370861,0.16423841){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}KaOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=628]{linux-distro.pdf}}%
+    \put(0.75298013,0.15695364){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Minimal Linux Live\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=629]{linux-distro.pdf}}%
+    \put(0.76192053,0.14966887){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pisi Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=630]{linux-distro.pdf}}%
+    \put(0.7692053,0.14238411){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Evolve OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=631]{linux-distro.pdf}}%
+    \put(0.79470199,0.14238411){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Solus\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=632]{linux-distro.pdf}}%
+    \put(0.7705298,0.13509934){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Clear Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=633]{linux-distro.pdf}}%
+    \put(0.7705298,0.12781457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}RancherOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=634]{linux-distro.pdf}}%
+    \put(0.77086093,0.1205298){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Super Grub2 Disk\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=635]{linux-distro.pdf}}%
+    \put(0.78476821,0.11324503){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OviOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=636]{linux-distro.pdf}}%
+    \put(0.8307947,0.10596026){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Asteroid OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=637]{linux-distro.pdf}}%
+    \put(0.83145695,0.0986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}januslinux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=638]{linux-distro.pdf}}%
+    \put(0.90794702,0.0986755){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ataraxia Linux\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=639]{linux-distro.pdf}}%
+    \put(0.59039735,0.08410596){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Android-x86\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=640]{linux-distro.pdf}}%
+    \put(0.72218543,0.07682119){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}OmniROM\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=641]{linux-distro.pdf}}%
+    \put(0.78046358,0.06953642){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Project Brillo\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=642]{linux-distro.pdf}}%
+    \put(0.8307947,0.06953642){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Android Things\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=643]{linux-distro.pdf}}%
+    \put(0.77251656,0.02582781){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Cyanogen OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=644]{linux-distro.pdf}}%
+    \put(0.74072848,0.05496689){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Android Wear\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=645]{linux-distro.pdf}}%
+    \put(0.87218543,0.05496689){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Wear OS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=646]{linux-distro.pdf}}%
+    \put(0.68940397,0.04768212){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Android-IA\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=647]{linux-distro.pdf}}%
+    \put(0.83245033,0.04039735){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}LineageOS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=648]{linux-distro.pdf}}%
+    \put(0.58509934,0.03311258){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}CyanogenMod\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=649]{linux-distro.pdf}}%
+    \put(0.53013245,0.06225166){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Android\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=650]{linux-distro.pdf}}%
+    \put(0.01986755,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1992\end{tabular}}}}%
+    \put(0.01986755,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1992\end{tabular}}}}%
+    \put(0.05298013,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1993\end{tabular}}}}%
+    \put(0.05298013,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1993\end{tabular}}}}%
+    \put(0.08609272,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1994\end{tabular}}}}%
+    \put(0.08609272,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1994\end{tabular}}}}%
+    \put(0.1192053,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1995\end{tabular}}}}%
+    \put(0.1192053,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1995\end{tabular}}}}%
+    \put(0.15231788,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1996\end{tabular}}}}%
+    \put(0.15231788,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1996\end{tabular}}}}%
+    \put(0.18543046,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1997\end{tabular}}}}%
+    \put(0.18543046,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1997\end{tabular}}}}%
+    \put(0.21854305,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1998\end{tabular}}}}%
+    \put(0.21854305,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1998\end{tabular}}}}%
+    \put(0.25165563,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1999\end{tabular}}}}%
+    \put(0.25165563,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1999\end{tabular}}}}%
+    \put(0.28476821,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2000\end{tabular}}}}%
+    \put(0.28476821,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2000\end{tabular}}}}%
+    \put(0.31788079,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2001\end{tabular}}}}%
+    \put(0.31788079,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2001\end{tabular}}}}%
+    \put(0.35099338,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2002\end{tabular}}}}%
+    \put(0.35099338,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2002\end{tabular}}}}%
+    \put(0.38410596,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2003\end{tabular}}}}%
+    \put(0.38410596,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2003\end{tabular}}}}%
+    \put(0.41721854,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2004\end{tabular}}}}%
+    \put(0.41721854,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2004\end{tabular}}}}%
+    \put(0.45033113,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2005\end{tabular}}}}%
+    \put(0.45033113,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2005\end{tabular}}}}%
+    \put(0.48344371,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2006\end{tabular}}}}%
+    \put(0.48344371,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2006\end{tabular}}}}%
+    \put(0.51655629,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2007\end{tabular}}}}%
+    \put(0.51655629,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2007\end{tabular}}}}%
+    \put(0.54966887,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2008\end{tabular}}}}%
+    \put(0.54966887,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2008\end{tabular}}}}%
+    \put(0.58278146,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2009\end{tabular}}}}%
+    \put(0.58278146,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2009\end{tabular}}}}%
+    \put(0.61589404,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2010\end{tabular}}}}%
+    \put(0.61589404,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2010\end{tabular}}}}%
+    \put(0.64900662,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2011\end{tabular}}}}%
+    \put(0.64900662,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2011\end{tabular}}}}%
+    \put(0.68211921,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2012\end{tabular}}}}%
+    \put(0.68211921,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2012\end{tabular}}}}%
+    \put(0.71523179,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2013\end{tabular}}}}%
+    \put(0.71523179,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2013\end{tabular}}}}%
+    \put(0.74834437,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2014\end{tabular}}}}%
+    \put(0.74834437,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2014\end{tabular}}}}%
+    \put(0.78145695,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2015\end{tabular}}}}%
+    \put(0.78145695,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2015\end{tabular}}}}%
+    \put(0.81456954,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2016\end{tabular}}}}%
+    \put(0.81456954,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2016\end{tabular}}}}%
+    \put(0.84768212,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2017\end{tabular}}}}%
+    \put(0.84768212,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2017\end{tabular}}}}%
+    \put(0.8807947,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2018\end{tabular}}}}%
+    \put(0.8807947,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2018\end{tabular}}}}%
+    \put(0.91390728,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2019\end{tabular}}}}%
+    \put(0.91390728,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2019\end{tabular}}}}%
+    \put(0.94701987,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2020\end{tabular}}}}%
+    \put(0.94701987,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2020\end{tabular}}}}%
+    \put(0.98013245,4.00198675){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2021\end{tabular}}}}%
+    \put(0.98013245,0.00397351){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2021\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=651]{linux-distro.pdf}}%
+    \put(0.04668874,3.94900662){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{GNU/Linux Distributions Timeline}\end{tabular}}}}%
+    \put(0.04668874,3.94139073){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Version 20.10}\end{tabular}}}}%
+    \put(0.04668874,3.9281457){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}© Andreas Lundqvist, Donjan Rodic, Mohammed A. Mustafa\end{tabular}}}}%
+    \put(0.04668874,3.92152318){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}© Muhammad Herdiansyah, Fabio Loli\end{tabular}}}}%
+    \put(0.04668874,3.91490066){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{https://github.com/FabioLolix/linuxtimeline}\end{tabular}}}}%
+    \put(0.04668874,3.90827815){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Original source: futurist.se/gldt\end{tabular}}}}%
+    \put(0.04668874,3.90165563){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Published under the GNU Free Documentation License\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=652]{linux-distro.pdf}}%
+    \put(0.04304636,3.89768212){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Influence, developer switchingRebasing, substantial code flow, project overtakingDeveloper \& code sharing, project merging\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
