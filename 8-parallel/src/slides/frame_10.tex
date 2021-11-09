@@ -1,0 +1,61 @@
+%----------------------------------------------------------------------------------------
+%	SLIDE 10.
+%----------------------------------------------------------------------------------------
+\begin{frame}
+\frametitle{Amdahl-törvénye}
+
+\onslide<1->{
+\begin{exampleblock}{Motiváció}
+	\textbf{Mennyi időt nyerhetünk valós esetekben a párhuzamosítással?}
+\end{exampleblock}
+}
+
+\only<2-3>{
+\begin{itemize}
+	\item<2-3> Egy program futásideje kifejezhető az alábbi módon:
+	\begin{block}{}
+		\begin{equation*}
+			T = T * S + T * P
+		\end{equation*}
+	\end{block}
+	ahol $S + P = 1$ és melyek rendre egy algoritmus kizárólag sorosan futtatható, valamint párhuzamosítható részeinek arányát jelöli.
+	\item<3> Ha a párhuzamosítható (P) részt több (N) szálra osztjuk szét, akkor a program futásideje lecsökken:
+	\begin{block}{}
+		\begin{equation*}
+			T_{új}
+			=
+			T * S + T * \frac{P}{N}
+		\end{equation*}
+	\end{block}
+\end{itemize}
+}
+
+\onslide<4-5>{
+\begin{itemize}
+	\item<4-5> A felgyorsulás (Q) így felírható az alábbi módon:
+	\begin{block}{}
+		\begin{equation*}
+			Q \left( N \right)
+			=
+			\frac{T}{T_{új}}
+			=
+			\frac{\cancel{T}}{\cancel{T} * S + \cancel{T} * \frac{P}{N}}
+			=
+			\frac{1}{S + \frac{P}{N}}
+		\end{equation*}
+	\end{block}
+	\item<5> Tovább egyszerűsítve felírhatóvá válik az Amdahl-törvény megszokott alakja:
+	\begin{block}{}
+		\begin{equation*}
+			Q \left( S, N \right)
+			=
+			\frac{1}{S + \frac{P}{N}}
+			=
+			\frac{1}{S + \frac{1-S}{N}},
+		\end{equation*}
+	\end{block}
+	mely megadja, hogy a felgyorsulás kizárólag a sorosan futtatandó részek arányától és a szálak számától függ.
+\end{itemize}
+}
+
+\end{frame}

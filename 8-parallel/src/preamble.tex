@@ -1,0 +1,43 @@
+\usepackage[utf8]{inputenc}
+\usepackage[magyar]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+%----------------------------------------------------------------------------------------
+%	MATH PACKAGES
+%----------------------------------------------------------------------------------------
+
+% Banish \phi from this realm
+\renewcommand{\phi}{\varphi}
+
+\usepackage{amsmath, amssymb, mathrsfs}
+\usepackage{cancel}
+\usepackage{mathtools}
+
+%----------------------------------------------------------------------------------------
+%	DEFINING NEW FUNCTIONS
+%----------------------------------------------------------------------------------------
+
+% --------- MATH MODE ---------
+% Equation numbering per section
+\numberwithin{equation}{section}
+
+% \cdot instead of asterisk (*) symbol
+\mathcode`\*="8000
+{\catcode`\*\active\gdef*{\cdot}}
+
+% Derivate
+\newcommand{\D}[1]{\ensuremath{\operatorname{d}{#1}}}
+\newcommand{\Dcb}[1]{\ensuremath{\operatorname{d}^{3}{#1}}}
+\newcommand{\Df}[2]{\ensuremath{\frac{\operatorname{d}{#1}}{\operatorname{d}{#2}}}}
+\newcommand{\Dfsq}[2]{\ensuremath{\frac{\operatorname{d}^{2}{#1}}{\operatorname{d}{#2}^{2}}}}
+
+% --------- OTHER ---------
+
+% Images
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+% Quotes
+\usepackage[autostyle=false]{csquotes}
+\newcommand{\q}[1]{„#1''} % Redefine quotations

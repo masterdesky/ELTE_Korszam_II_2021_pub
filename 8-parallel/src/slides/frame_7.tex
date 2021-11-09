@@ -1,0 +1,30 @@
+%----------------------------------------------------------------------------------------
+%	SLIDE 7.
+%----------------------------------------------------------------------------------------
+\begin{frame}
+\frametitle{Race condition}
+
+\begin{block}{Párhuzamosítás a gyakorlatban}
+	Több eszköz is nagyban megkönnyíti már párhuzamos kódok programozását:
+	\begin{itemize}
+		\item Python: \texttt{threading}, \texttt{multiprocessing} stb.
+		\item C++17: Standard könyvtárak
+		\item C/C++/Fortran: \texttt{OpenMP}, \texttt{CUDA}, stb.
+	\end{itemize}
+\end{block}
+
+\uncover<2->{
+\begin{alertblock}{Megoldandó problémák}
+	\begin{itemize}
+		\item Rengeteg lenne a fenti eszközök nélkül, de még így is vannak...
+		\item Legfontosabb talán a \q{race condition}
+		\begin{itemize}
+			\item Két szál azonos memóriaterülethez akar egyszerre hozzábabrálni
+			\item Egyik tipikus esete a rettegett \q{undefined behaviour}-nek
+			\item Kritikus hiba, ami teljesen el tudja rontani bármilyen szoftver működését
+		\end{itemize}
+	\end{itemize}
+\end{alertblock}
+}
+
+\end{frame}
